@@ -22,7 +22,7 @@ c = int(input("Masukan bilangan C:"))
 
 ![a](https://user-images.githubusercontent.com/56240017/67483409-facce900-f68f-11e9-853c-0a9244c881f4.PNG)
 
-5. Klik Run Project, Agar Semua Yang Dibuat Tadi Bisa Langsung Masuk Terprogram
+5. Klik Run Module, Agar Semua Yang Dibuat Tadi Bisa Langsung Masuk Terprogram
 
 ![langkah 4](https://user-images.githubusercontent.com/56240017/67483492-2e0f7800-f690-11e9-9339-a26a93c4fa58.png)
 
